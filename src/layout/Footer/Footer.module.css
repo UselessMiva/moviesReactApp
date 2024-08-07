@@ -1,0 +1,11 @@
+.wrapper {
+  background: #9575cd;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  width: 100%;
+}
+.inner-text {
+  margin: 5px;
+  color: white;
+}

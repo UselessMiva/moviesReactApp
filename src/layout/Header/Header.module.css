@@ -1,0 +1,12 @@
+.wrapper {
+  background: #7e57c2;
+  margin: 0;
+  display: flex;
+  justify-content: flex-start;
+}
+.logo {
+  color: white;
+  margin: 7px;
+  font-size: 32px;
+  font-weight: 600;
+}
